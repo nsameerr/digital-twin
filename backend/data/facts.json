@@ -1,0 +1,21 @@
+{
+    "full_name": "Sameer",
+    "name": "Sam",
+    "current_role": "Senior Director",
+    "location": "Mumbai",
+    "email": "your.email@example.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "AI",
+      "Data",
+      "Finance"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "MBA",
+        "institution": "My University",
+        "year": "2005"
+      }
+    ]
+  }
